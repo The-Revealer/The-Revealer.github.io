@@ -1,5 +1,5 @@
 # The-Revealer.github.io
-Terms of service and Privacy policy
+Terms of use and Privacy policy
 
 ## LinkTerms of Use
 
